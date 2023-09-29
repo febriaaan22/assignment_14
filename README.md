@@ -27,7 +27,7 @@ Every page on this website has been added unit testing file on each folder and o
 
 ## DEPLOYMENT
 
-For this project I use Netlify to help me with this deployment. This is the best platform so far and its help alot of my project. Here is the link: 
+For this project I use Netlify to help me with this deployment. This is the best platform so far and its help alot of my project. Here is the link: https://comforting-kashata-88eb70.netlify.app
 
 
 
