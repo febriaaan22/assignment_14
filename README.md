@@ -18,12 +18,30 @@ Hi, i’m Ireng Febrian Sanjaya and this is my assignment for week 14. This week
 Every page on this website has been added unit testing file on each folder and one additional profile page. Here's the description below.
 
 1. Login Page
+   ![LoginTest](Documentation/LoginForm%20Testing.png)
 2. Register Page
+   ![RegisterTest](Documentation/RegisterForm%20Testing.png)
 3. Dashboard Page
+   ![Dashboard](Documentation/Dashboard%20Testing.png)
 4. Edit Page
+   ![EditTest](Documentation/EditForm%20testing.png)
 5. Add Form
+   ![AddTest](Documentation/AddForm%20Testing.png)
 6. Profile Page
+   ![ProfileTest](Documentation/Profile%20Testing.png)
 
+Here's below the overall Unit Testing:
+![OverallTest](Documentation/Run%20All%20Suites.png)
+
+
+## HOW TO RUN THE PROJECT
+1. Open Visual Studio Code Terminal or you can use other terminal too
+2. Git Clone the project : 
+   For Public Repository:
+   ```https://github.com/febriaaan22/assignment_14``` 
+   For Private Repository:
+   ```https://github.com/RevoU-FSSE-2/week-14-febriaaan22```
+3. After cloning you can run the project with ```npm install```, to run on localhost ```npm run dev```, and for unit testing ```npm run test```.
 
 ## DEPLOYMENT
 
